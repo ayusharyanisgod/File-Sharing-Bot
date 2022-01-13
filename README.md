@@ -78,14 +78,15 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `{previouscaption}` - Original Caption
 
 
-## Support   
+## Support Us 
 Join Our [Telegram Network Channel](https://www.telegram.dog/MetaverseNetwork) .   
    
-
+-------------------------------------------------
 
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+- Thanks To [CodeXBotz](https://telegram.me/CodeXBotz) For This Awesome Repo.
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
